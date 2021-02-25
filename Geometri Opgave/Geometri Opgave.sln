@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometri Opgave", "Geometri Opgave\Geometri Opgave.csproj", "{B5F53FEC-9135-4E5B-950A-801E84B96366}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE04CE9F-018A-44FC-A727-239C7ADB8098}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F53FEC-9135-4E5B-950A-801E84B96366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F53FEC-9135-4E5B-950A-801E84B96366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F53FEC-9135-4E5B-950A-801E84B96366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F53FEC-9135-4E5B-950A-801E84B96366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88AE8148-9C17-4902-8C92-42E72B440594}
+	EndGlobalSection
+EndGlobal
